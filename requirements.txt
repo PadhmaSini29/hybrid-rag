@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-aws
+langchain-chroma
+chromadb
+boto3
+python-dotenv
+pypdf
+langchain-experimental
+pymupdf
+pandas
+pdfplumber
+torch
+transformers
+Pillow
