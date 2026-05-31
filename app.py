@@ -9,9 +9,9 @@ from utils import CONTEXT_K
     Calls load_or_build_indexes() which:
         - Loads Chroma (vector DB)
         - Builds it if not found
-        - test
+        - test 2345
 """
-# Load or build
+# Load or build the vector 
 text_db, image_db = load_or_build_indexes()
 
 def ask(query):
